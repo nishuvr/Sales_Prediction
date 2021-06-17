@@ -1,4 +1,4 @@
-# Sales_Prediction
+# Sales Prediction 
 The repository makes use of two files:
 
 - 'sales_pipeline.csv' - sales related data
